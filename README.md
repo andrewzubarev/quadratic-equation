@@ -6,6 +6,4 @@ The program is written and explained in Russian.
 ## Практические результаты
 Благодаря программе я смог найти и исправить ошибки в решении нескольких квадратных уравнений.
 
-## Текст до обработки
-![Упражнения из учебника]()
-
+![Упражнения из учебника](https://github.com/andrewzubarev/quadratic-equation/blob/main/readme_assets/example_equations.png)
